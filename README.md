@@ -1,2 +1,2 @@
 # MCMC
-My personal MCMC tutorials, applications, projects etc.
+MCMC tutorials, applications, projects etc.
