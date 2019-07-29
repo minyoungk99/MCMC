@@ -1,2 +1,2 @@
 # MCMC
-MCMC tutorials, applications, projects etc.
+MCMC tutorial pdf solutions
